@@ -1,12 +1,12 @@
 ## 🧑🏻 About Me:
-*Name:* SHAH SAMIN YASAR  
-*Age:* 18  
-*Based:* Sylhet, Bangladesh  
-*Studying:* High School (College 2nd Year w.r.t BD)  
-*Specilize in:* MERN Stack  
-*Hobbies:* Coding; Cycling; Photography;  
-*Portfolio Website:* [shahsaminyasar.github.io/portfolio](https://shahsaminyasar.github.io/portfolio)  
-*Email:* [shahsaminyasar@yahoo.com](mailto:shahsaminyasar@yahoo.com)  
+**Name:** SHAH SAMIN YASAR  
+**Age:** 18  
+**Based:** Sylhet, Bangladesh  
+**Studying:** High School (College 2nd Year w.r.t BD)  
+**Specilize in:** MERN Stack  
+**Hobbies:** Coding; Cycling; Photography;  
+**Portfolio Website:** [shahsaminyasar.github.io/portfolio](https://shahsaminyasar.github.io/portfolio)  
+**Email:** [shahsaminyasar@yahoo.com](mailto:shahsaminyasar@yahoo.com)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shahsaminyasar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah_samin_yasar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shahsaminyasar) 
