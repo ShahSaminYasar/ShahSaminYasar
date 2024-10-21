@@ -1,4 +1,4 @@
-## 🧑🏻 About Me:
+## ℹ About Me:
 **Name:** SHAH SAMIN YASAR  
 **Age:** 18  
 **Based:** Sylhet, Bangladesh  
