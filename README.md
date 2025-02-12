@@ -1,11 +1,11 @@
 ## ℹ About Me:
 **Name:** SHAH SAMIN YASAR  
-**Age:** 18  
+**Age:** 19  
 **Based:** Sylhet, Bangladesh  
 **Studying:** College  
 **Specilize in:** MERN Stack, Next.js  
 **Hobbies:** Programming; Cycling; Photography;  
-**Portfolio Website:** [shahsaminyasar.github.io/portfolio](https://shahsaminyasar.github.io/portfolio)  
+**Portfolio Website:** [shahsaminyasar.vercel.app](https://shahsaminyasar.vercel.app)  
 **Email:** [shahsaminyasar@yahoo.com](mailto:shahsaminyasar@yahoo.com)  
 
 ## 🌐 Socials:
