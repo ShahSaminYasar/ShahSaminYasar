@@ -1,7 +1,6 @@
 ## ℹ About Me:
 **Name:** SHAH SAMIN YASAR  
 **Based:** Sylhet, Bangladesh  
-**Studying:** College  
 **Specilize in:** MERN Stack, Next.js  
 **Hobbies:** Programming; Cycling; Photography;  
 **Portfolio Website:** [shahsaminyasar.vercel.app](https://shahsaminyasar.vercel.app)  
