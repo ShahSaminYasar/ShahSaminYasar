@@ -1,6 +1,5 @@
 ## ℹ About Me:
 **Name:** SHAH SAMIN YASAR  
-**Age:** 19  
 **Based:** Sylhet, Bangladesh  
 **Studying:** College  
 **Specilize in:** MERN Stack, Next.js  
